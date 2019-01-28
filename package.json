@@ -1,0 +1,23 @@
+{
+  "name": "zaolunzi",
+  "version": "1.0.0",
+  "description": "作者：石飞",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiran2014/zaolunzi.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yiran2014/zaolunzi/issues"
+  },
+  "homepage": "https://github.com/yiran2014/zaolunzi#readme"
+}

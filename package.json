@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yiran2014/zaolunzi/issues"
   },
-  "homepage": "https://github.com/yiran2014/zaolunzi#readme"
+  "homepage": "https://github.com/yiran2014/zaolunzi#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
 }
